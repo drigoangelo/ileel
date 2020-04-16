@@ -1,0 +1,7 @@
+
+videos/
+db/*.prod
+db/*.local
+mysql/
+diagnostic.php
+envios/*.webm
